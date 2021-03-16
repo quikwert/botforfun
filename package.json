@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot for study and fun",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quikwert/botforfun.git"
+  },
+  "author": "Dmitri Rodzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quikwert/botforfun/issues"
+  },
+  "homepage": "https://github.com/quikwert/botforfun#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1"
+  }
+}
